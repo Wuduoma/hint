@@ -120,7 +120,7 @@ The code is available under the [Apache 2.0 license][license].
 [contrib vscode]: ./packages/extension-vscode/CONTRIBUTING.md
 [contributor guide]: https://webhint.io/docs/contributor-guide/
 [Governance]: ./packages/hint/docs/about/GOVERNANCE.md
-[license]: LICENSE.txt
+[license]: LICENSED .txt
 [local contributor guide]: ./packages/hint/docs/contributor-guide/index.md
 [local user guide]: ./packages/hint/docs/user-guide/index.md
 [node]: https://nodejs.org/en/download/current/
